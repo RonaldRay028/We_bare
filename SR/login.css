@@ -1,0 +1,46 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("wallpaper.png");
+    background-size: cover;
+}
+.login{
+    height: 500px;
+    width: 30%;
+    margin: 6% auto;
+    text-align: center;
+    border-radius: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(sr1.png);
+    background-position: center;
+    background-size: cover;
+}
+.input-field{
+    width: 70%;
+    height: 30px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 0px ;
+}
+.register{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)); 
+}
+.btn3{
+    margin-top: 10px;
+    margin-left: 5px;
+    border-radius: 5px;
+    width: 70%;
+    height: 30px;
+    border-radius: 10px;
+    border-style: 1px ridge;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    color: white;
+}
+span{
+    color:skyblue;
+}
+p{
+    color: white;
+    font-size: 12px;
+}
+h2{
+    color: white;
+    padding-top: 20px;
+}

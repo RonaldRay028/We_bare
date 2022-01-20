@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("wallpaper.png");
+    background-size: cover;
+}
+.form{
+    height: 500px;
+    width: 30%;
+    margin: 6% auto;
+    text-align: center;
+    border-radius: 20px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(sr1.png);
+    background-position: center;
+    background-size: cover;
+}
+.sign-in ul li{
+    list-style: none;
+    margin-top: 20px;
+}
+button{
+    margin-top: 20px;
+    width: 200px;
+    height: 30px;
+    border-style: ridge;
+    border-radius: 14px;
+    cursor: pointer;
+     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    color: white;
+}
+.line{
+    width: 70px;
+}
+.other-way ul li {
+    list-style: none;
+    display: inline-block;
+}
+span{
+    color:skyblue;
+}
+p{
+    color: white;
+    font-size: 12px;
+}
